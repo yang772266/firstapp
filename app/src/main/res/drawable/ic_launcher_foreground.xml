@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 笔记本/课表底板 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,24h44c4.4,0 8,3.6 8,8v44c0,4.4 -3.6,8 -8,8h-44c-4.4,0 -8,-3.6 -8,-8v-44c0,-4.4 3.6,-8 8,-8z" />
+    <!-- 笔记本左侧装订线/书脊 -->
+    <path
+        android:fillColor="#C5CAE9"
+        android:pathData="M32,24h8v60h-8z" />
+    <!-- 课表横线 1 -->
+    <path
+        android:fillColor="#7986CB"
+        android:pathData="M46,38h22v4h-22z" />
+    <!-- 课表横线 2 -->
+    <path
+        android:fillColor="#7986CB"
+        android:pathData="M46,48h22v4h-22z" />
+    <!-- 课表横线 3 -->
+    <path
+        android:fillColor="#7986CB"
+        android:pathData="M46,58h16v4h-16z" />
+</vector>
